@@ -1,4 +1,5 @@
 
+
 export const API_KEY = "d7efaf23a76b4fd1b5101961ba3d08db"; 
 const BASE_URL = "https://newsapi.org/v2";
 
